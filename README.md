@@ -26,7 +26,7 @@ The steps are roughly:
 This git repository will be used to coordinate the effort. The current
 outline is found [here][outline] and dicussion are in issues.
 
-[outline]: https://github.com/carllerche/doc-blitz/issues/7
+[outline]: outline/README.md
 
 ## License
 
