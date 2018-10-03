@@ -11,6 +11,8 @@ familiarity with Tokio**.
 [guides]: https://tokio.rs/docs
 [api]: http://docs.rs/tokio
 
+Join us on [Gitter](https://gitter.im/tokio-rs/doc-blitz).
+
 ## Process
 
 The steps are roughly:
@@ -78,7 +80,10 @@ tweak an existing guide to improve it, please open a PR.
 
 The goal of the doc blitz is to get the community to contribute guides.
 While some level of Tokio experience is needed, it is probably less tha
-you might expect. A detailed [outline] is provided to get started.
+you might expect. A detailed [outline] is provided to get started. We are also
+available on [Gitter](https://gitter.im/tokio-rs/doc-blitz) to answer questions
+and to teach you enough to get to the point of writing the guide. So why not
+give it a shot?
 
 If you want to take a stab at writing a guide, find a page in the
 outline that is marked as unassigned and submit a PR with your GitHub
