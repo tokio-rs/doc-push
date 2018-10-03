@@ -6,6 +6,7 @@ Covers working with I/O in depth with Tokio.
 * [Reading and writing data](#reading-writing)
 * [`poll_` API](#poll_api)
 * [Implementing `AsyncRead` / `AsyncWrite`](#impl-async-read-write)
+* [Filesystem](#fs)
 * [Datagram APIs](#datagram)
 
 <a name="overview"></a>
@@ -131,6 +132,17 @@ batches.
 #### Open questions
 
 * What should this page be titled?
+
+<a name="fs"></a>
+## Filesystem
+
+**Status**: Unassigned.
+
+A guide of Tokio's file system APIs.
+
+#### Contents
+
+TODO
 
 <a name="datagram"></a>
 ## Datagram APIs
