@@ -26,7 +26,6 @@ should they be used?
   * Most of this is covered in [futures, streams, and sinks][f-s-s], but a
     refresher in context of transports comes here.
 
-
 [f-s-s]: futures-streams-sinks.md
 
 <a name="implementing"></a>
