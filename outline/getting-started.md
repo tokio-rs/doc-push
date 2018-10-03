@@ -1,23 +1,46 @@
 The getting started guides start with a Tutorial then go into a high
 level tour of necessary knowledge for being productive with Tokio.
 
-# Guides:
+# Pages:
 
-* [Hello world!](https://tokio.rs/docs/getting-started/hello-world/)
-* [Runtime model](https://tokio.rs/docs/getting-started/runtime-model/)
-* [Futures](https://tokio.rs/docs/getting-started/futures/)
-* [Tasks](https://tokio.rs/docs/getting-started/tasks/)
-* [Example: A Chat Server](https://tokio.rs/docs/getting-started/chat/)
+* [Hello world!](#hello-world)
+* [Runtime model](#runtime-model)
+* [Futures](#futures)
+* [Tasks](#tasks)
+* [Example: A Chat Server](#chat-server)
 
-# Issues
+<a name="hello-world"></a>
+## Hello world!
 
-* The guide contains a [I/O with
-  Tokio](https://tokio.rs/docs/getting-started/io/) section. This
-  section is currently poor. The current plan is to create a guide
-  section dedicated to [I/O](#4). Should the getting started section
-  have a high level I/O introduction? If so, what should be covered?
+**Status**: [Complete](https://tokio.rs/docs/getting-started/hello-world/)
 
-* There is no mention of how to implement a client. All examples use
-  servers.
+A "Hello world!" Tokio tutorial. Implement a server that writes "hello world" to
+the socket.
 
-* There is no mention of thread-local variables being used to manage task notification.
+<a name="runtime-model"></a>
+## Runtime model
+
+**Status**: [Complete](https://tokio.rs/docs/getting-started/runtime-model/)
+
+A crash course into how Tokio executes code.
+
+<a name="futures"></a>
+## Futures
+
+**Status**: [Complete](https://tokio.rs/docs/getting-started/futures/)
+
+A crash course into the Future abstraction and how Tokio uses it.
+
+<a name="tasks"></a>
+## Tasks
+
+**Status**: [Complete](https://tokio.rs/docs/getting-started/tasks/)
+
+Crash course into tasks.
+
+<a name="chat-server"></a>
+## Tasks
+
+**Status**: [Complete](https://tokio.rs/docs/getting-started/chat/)
+
+A tutorial showing how to implement a chat server.
