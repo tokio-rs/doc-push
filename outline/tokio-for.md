@@ -22,7 +22,7 @@ How to use Tokio to build a proxy.
 TODO: Fill out
 
 <a name="database"></a>
-## Timeouts
+## Database
 
 **Status**: Unassigned.
 
