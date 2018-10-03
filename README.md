@@ -53,7 +53,7 @@ Tokio [guides] to go. Browse through what is proposed and jump in the
 disucssion providing thoughts and feedback on the proposed outline. What
 topics did we miss?
 
-Feel free to open new [issues] or comment on [existing] ones.
+Feel free to open new [issues][new-issue] or comment on [existing] ones.
 
 ### Brainstorm ideas for the cookbook and list of "gotchas"
 
