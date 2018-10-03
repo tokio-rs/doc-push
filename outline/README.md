@@ -75,7 +75,8 @@ A set of guides showing how to use Tokio in different contexts:
 <a name="cookbook"></a>
 # Cookbook
 
-[TODO](https://github.com/tokio-rs/doc-blitz/issues/23)
+A collection of simple examples that demonstrate good practices to accomplish
+common tasks with Tokio.
 
 [Details](cookbook.md)
 
