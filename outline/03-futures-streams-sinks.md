@@ -42,6 +42,7 @@ TODO: Description
       to use them.
   * Shortcomings of combinators (move by value, no borrowing).
   * Must write in a fully functional style.
+    * Data must be moved into the closure.
   * Common patterns with futures
   * Reach often for custom combinators (implementing Future).
 * Implementing custom combinators
