@@ -1,5 +1,8 @@
 Transports (`Stream + Sink` of frame values) in detail.
 
+The [existing guide](https://tokio.rs/docs/going-deeper/frames/) is very
+minimal.
+
 # Pages:
 
 * [Overview](#overview)

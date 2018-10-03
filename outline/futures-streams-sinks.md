@@ -45,6 +45,8 @@ TODO: Description
     * Data must be moved into the closure.
   * Common patterns with futures
   * Reach often for custom combinators (implementing Future).
+* Returning futures
+  * Based on [existing guide](https://tokio.rs/docs/going-deeper/returning/)
 * Implementing custom combinators
   * TODO: Good rule of thumb for when to reach for this
   * TODO: What are some good examples to work thorugh?
