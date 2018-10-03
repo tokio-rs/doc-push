@@ -38,7 +38,7 @@ In depth guides describing:
 [Details](03-futures-streams-sinks.md)
 
 <a name="transports"></a>
-## Transports
+# Transports
 
 A transport is a `Stream + Sink` of frame values. This section gets into:
 
@@ -52,14 +52,14 @@ and lots of examples.
 [Details](04-transports.md)
 
 <a name="time"></a>
-## Tracking Time
+# Tracking Time
 
 Teaches how to incorporate time into Tokio applications. This covers `Delay` as well as setting timeouts and `Interval` streams. The `clock` is also mentioned, including how to mock it out.
 
 [Details](05-tracking-time.md)
 
 <a name="tokio-for"></a>
-## Tokio for...
+# Tokio for...
 
 A set of guides showing how to use Tokio in different contexts:
 
@@ -71,14 +71,14 @@ A set of guides showing how to use Tokio in different contexts:
 [Details](tokio-for.md)
 
 <a name="cookbook"></a>
-## Cookbook
+# Cookbook
 
 [TODO](https://github.com/tokio-rs/doc-blitz/issues/23)
 
 [Details](06-cookbook.md)
 
 <a name="internals"></a>
-## Internals
+# Internals
 
 [TODO](https://github.com/tokio-rs/doc-blitz/issues/28)
 
