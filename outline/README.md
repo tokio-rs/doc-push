@@ -82,6 +82,7 @@ A set of guides showing how to use Tokio in different contexts:
 <a name="internals"></a>
 # Internals
 
-[TODO](https://github.com/tokio-rs/doc-blitz/issues/28)
+A guide covering how Tokio is built. This is not a tour of the code. Instead, it
+covers enough concepts to have an idea of what Tokio is doing.
 
 [Details](internals.md)
