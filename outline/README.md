@@ -39,7 +39,14 @@ In depth guides describing:
 <a name="transports"></a>
 ## Transports
 
-TODO
+A transport is a `Stream + Sink` of frame values. This section gets into:
+
+* What are transports?
+* When should they be used?
+* How do I build a transport?
+* Transport middleware
+
+and lots of examples.
 
 [Details](04-transports.md)
 
