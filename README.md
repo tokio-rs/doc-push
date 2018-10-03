@@ -11,7 +11,7 @@ familiarity with Tokio**.
 [guides]: https://tokio.rs/docs
 [api]: http://docs.rs/tokio
 
-Join us on [Gitter](https://gitter.im/tokio-rs/doc-blitz).
+Join us on [Gitter].
 
 ## Process
 
@@ -32,6 +32,8 @@ outline is found [here][outline] and dicussion are in issues.
 
 There are a few ways to jump and get involved depending on your comfort
 level.
+
+First, join us in the [Gitter] channel.
 
 ### Read the existing guides
 
@@ -74,6 +76,14 @@ hit, so we want your ideas.
 The guides are part of the [website] repository. If you see a way to
 tweak an existing guide to improve it, please open a PR.
 
+### Review a guide pull request
+
+**Requires Experience**: Beginner
+
+As guides are written, they will need feedback. The pull requests will be
+submitted to the [website] repository. Keep an eye out for new ones, and when
+they appear, review the pull requests and provide your feedback.
+
 ### Write a guide
 
 **Required Experience**: Intermediate
@@ -81,7 +91,7 @@ tweak an existing guide to improve it, please open a PR.
 The goal of the doc blitz is to get the community to contribute guides.
 While some level of Tokio experience is needed, it is probably less tha
 you might expect. A detailed [outline] is provided to get started. We are also
-available on [Gitter](https://gitter.im/tokio-rs/doc-blitz) to answer questions
+available on [Gitter] to answer questions
 and to teach you enough to get to the point of writing the guide. So why not
 give it a shot?
 
@@ -93,6 +103,7 @@ Please file a PR to the [website] as soon as you can with your work in
 progress (you can preface the PR with **work in progress**). This is
 useful for getting early feedback from the community.
 
+[Gitter]: https://gitter.im/tokio-rs/doc-blitz
 [outline]: outline/README.md
 [guides]: https://tokio.rs/docs
 [new-issue]: https://github.com/tokio-rs/doc-blitz/issues/new
