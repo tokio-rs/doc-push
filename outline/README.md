@@ -2,6 +2,7 @@ The outline for what we would like the Tokio guides to become.
 
 #### Sections
 
+* [Overview](#overview)
 * [Getting started](#getting-started)
 * [I/O with Tokio](#io)
 * [Futures, Streams, and Sinks](#futures-streams-sinks)
@@ -10,6 +11,13 @@ The outline for what we would like the Tokio guides to become.
 * [Tokio for...](#tokio-for)
 * [Cookbook](#cookbook)
 * [Internals](#internals)
+
+<a name="overview"></a>
+# Overview
+
+After this section, the reader will know what Tokio is, the basics of what Tokio is used for, and the most important facts about Tokio's performance and use.
+
+[Details](overview.md)
 
 <a name="getting-started"></a>
 # Getting started
