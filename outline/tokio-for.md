@@ -64,3 +64,14 @@ How to write a library that uses Tokio.
 #### Contents
 
 TODO: Fill out
+
+<a name="javascript-devs"></a>
+## JavaScript Developers
+
+**Status**: Unassigned.
+
+How to use Tokio for those familiar with how promises work in JavaScript
+
+#### Contents
+
+TODO: Fill out
