@@ -109,5 +109,4 @@ TODO: Fill this out
 
 # Open questions
 
-* Where does the topic of cancellation fit in?
 * Can the section title be better?
