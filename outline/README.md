@@ -7,6 +7,7 @@ The outline for what we would like the Tokio guides to become.
 * [Futures, Streams, and Sinks](#futures-streams-sinks)
 * [Transports](#transports)
 * [Tracking Time](#time)
+* [Tokio for...](#tokio-for)
 * [Cookbook](#cookbook)
 * [Internals](#internals)
 
@@ -57,16 +58,28 @@ Teaches how to incorporate time into Tokio applications. This covers `Delay` as 
 
 [Details](05-tracking-time.md)
 
+<a name="tokio-for"></a>
+## Tokio for...
+
+A set of guides showing how to use Tokio in different contexts:
+
+* Servers
+* Clients
+* Game development
+* Libraries
+
+[Details](tokio-for.md)
+
 <a name="cookbook"></a>
 ## Cookbook
 
-TODO
+[TODO](https://github.com/tokio-rs/doc-blitz/issues/23)
 
 [Details](06-cookbook.md)
 
 <a name="internals"></a>
 ## Internals
 
-TODO
+[TODO](https://github.com/tokio-rs/doc-blitz/issues/28)
 
-[Details](07-cookbook.md)
+[Details](07-internals.md)
