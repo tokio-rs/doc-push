@@ -26,7 +26,74 @@ The steps are roughly:
 This git repository will be used to coordinate the effort. The current
 outline is found [here][outline] and dicussion are in issues.
 
+## Contributing
+
+There are a few ways to jump and get involved depending on your comfort
+level.
+
+### Read the existing guides
+
+**Required Experience**: Any
+
+Read the existing [guides] and try to learn how to use Tokio. While
+doing so, keep track of the experience. Some things to keep in mind:
+
+* What parts of the guides were confusing?
+* What questsions went unanswered?
+* Did anything flow strangely?
+
+Then, [file issues][confusion] tracking your experience.
+
+### Provide thoughts and feedback on the outline
+
+**Required Experience**: Beginner
+
+The [outline] proposed in this repository tracks where we would like the
+Tokio [guides] to go. Browse through what is proposed and jump in the
+disucssion providing thoughts and feedback on the proposed outline. What
+topics did we miss?
+
+Feel free to open new [issues] or comment on [existing] ones.
+
+### Brainstorm ideas for the cookbook and list of "gotchas"
+
+**Required Experience**: Beginner
+
+These two sections need to be based off of problems real users of Tokio
+hit, so we want your ideas.
+
+* [Gotchas](https://github.com/tokio-rs/doc-blitz/issues/14)
+* [Cookbook](https://github.com/tokio-rs/doc-blitz/issues/23)
+
+### Tweak an existing guide
+
+**Requires Experience**: Beginner
+
+The guides are part of the [website] repository. If you see a way to
+tweak an existing guide to improve it, please open a PR.
+
+### Write a guide
+
+**Required Experience**: Intermediate
+
+The goal of the doc blitz is to get the community to contribute guides.
+While some level of Tokio experience is needed, it is probably less tha
+you might expect. A detailed [outline] is provided to get started.
+
+If you want to take a stab at writing a guide, find a page in the
+outline that is marked as unassigned and submit a PR with your GitHub
+handle as the assignee for the page. Then, start writing.
+
+Please file a PR to the [website] as soon as you can with your work in
+progress (you can preface the PR with **work in progress**). This is
+useful for getting early feedback from the community.
+
 [outline]: outline/README.md
+[guides]: https://tokio.rs/docs
+[new-issue]: https://github.com/tokio-rs/doc-blitz/issues/new
+[confusion]: https://github.com/tokio-rs/doc-blitz/issues/new?labels=confusion
+[existing]: https://github.com/tokio-rs/doc-blitz/issues
+[website]: http://github.com/tokio-rs/website
 
 ## License
 
