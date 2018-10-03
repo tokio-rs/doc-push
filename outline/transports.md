@@ -27,7 +27,7 @@ should they be used?
     refresher in context of transports comes here.
 
 
-[f-s-s]: 03-futures-streams-sinks.md
+[f-s-s]: futures-streams-sinks.md
 
 <a name="implementing"></a>
 ## Implementing a transport
