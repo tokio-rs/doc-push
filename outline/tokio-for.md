@@ -74,4 +74,10 @@ How to use Tokio for those familiar with how promises work in JavaScript
 
 #### Contents
 
-TODO: Fill out
+* Differences to the JavaScript Model:
+    * Callbacks
+    * Promises (hint to future of async/await)
+* Equivalents of:
+    * setTimeout/setInterval
+    * fetch
+    * fs.readFile
