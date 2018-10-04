@@ -1,5 +1,7 @@
 The outline for what we would like the Tokio guides to become.
 
+This outline represents a set of ideas to help contributors to get started and not a firm commitment to the structure. Authors of each page should feel free to deviate if they find reason to.
+
 #### Sections
 
 * [Overview](#overview)
