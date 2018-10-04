@@ -33,7 +33,9 @@ outline is found [here][outline] and dicussion are in issues.
 There are a few ways to jump and get involved depending on your comfort
 level.
 
-First, join us in the [Gitter] channel.
+First, [watch] this repo and join us in the [Gitter] channel.
+
+[watch]: https://help.github.com/articles/watching-and-unwatching-repositories/#watching-a-single-repository
 
 ### Read the existing guides
 
