@@ -12,6 +12,7 @@ and categories still need to be refined.
 * [Networking](#networking)
 * [Operating System](#os)
 * [Time](#time)
+* [Transports](#transports)
 
 <a name="structure"></a>
 ## Application structure
@@ -118,3 +119,12 @@ Combo interval and networking. See [here](https://github.com/tokio-rs/doc-blitz/
 
 Terminate a stream when 30 seconds has elapsed. Then show how the number of
 messages can be capped as well by using `take`
+
+<a name="transports"></a>
+## Transports
+
+#### Transparently send message when error is received on `Stream`
+
+This is a form of automatic error handling at the transport level. Implement a
+transport decorator that intercepts errors on the `Stream` half of a certain kind
+and automatically send a message via the `Sink` half.
