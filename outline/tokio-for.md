@@ -7,6 +7,7 @@ Each guide shows how to use Tokio in a different context.
 * [Client](#client)
 * [Game development](#game-dev)
 * [Library](#library)
+* [JavaScript Developers](#javascript-devs)
 
 TODO: Fill out
 
