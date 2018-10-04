@@ -1,7 +1,7 @@
 This section is still in the brainstorming phase. Most of the existing contents
 and categories still need to be refined.
 
-[Discussion](https://github.com/tokio-rs/doc-blitz/issues/23)
+[Discussion](https://github.com/tokio-rs/doc-push/issues/23)
 
 # Categories:
 
@@ -74,7 +74,7 @@ How should this be done?
 #### Process events from multiple sources
 
 See
-[here](https://github.com/tokio-rs/doc-blitz/issues/23#issuecomment-426481892)
+[here](https://github.com/tokio-rs/doc-push/issues/23#issuecomment-426481892)
 and [here](https://github.com/tokio-rs/tokio/issues/86#issuecomment-358186680).
 
 > What's the pattern for taking "events" from multiple sources and handling them
@@ -113,7 +113,7 @@ How to spawn & manage child processes from Tokio?
 
 #### Send a UDP packet every 5 seconds
 
-Combo interval and networking. See [here](https://github.com/tokio-rs/doc-blitz/issues/23#issuecomment-426477390)
+Combo interval and networking. See [here](https://github.com/tokio-rs/doc-push/issues/23#issuecomment-426477390)
 
 #### Limit a Stream by total duration
 

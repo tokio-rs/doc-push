@@ -1,11 +1,11 @@
-# Tokio Doc Blitz
+# Tokio Doc Push
 
-Welcome to the Tokio doc blitz effort. The goal is to organize a
-concerted community effort to improve the Tokio documentation while also
-gaining new contributors. At the end, we hope to have a significantly
-improved set of [guides] and [API documentation][api].
+Welcome to the Tokio doc push. The goal is to organize a concerted community
+effort to improve the Tokio documentation while also gaining new contributors.
+At the end, we hope to have a significantly improved set of [guides] and [API
+documentation][api].
 
-The Tokio doc blitz can use the help of all, **no matter the level of
+The Tokio doc push can use the help of all, **no matter the level of
 familiarity with Tokio**.
 
 [guides]: https://tokio.rs/docs
@@ -68,8 +68,8 @@ Feel free to open new [issues][new-issue] or comment on [existing] ones.
 These two sections need to be based off of problems real users of Tokio
 hit, so we want your ideas.
 
-* [Gotchas](https://github.com/tokio-rs/doc-blitz/issues/14)
-* [Cookbook](https://github.com/tokio-rs/doc-blitz/issues/23)
+* [Gotchas](https://github.com/tokio-rs/doc-push/issues/14)
+* [Cookbook](https://github.com/tokio-rs/doc-push/issues/23)
 
 ### Tweak an existing guide
 
@@ -90,7 +90,7 @@ they appear, review the pull requests and provide your feedback.
 
 **Required Experience**: Intermediate
 
-The goal of the doc blitz is to get the community to contribute guides.
+The goal of the doc push is to get the community to contribute guides.
 While some level of Tokio experience is needed, it is probably less tha
 you might expect. A detailed [outline] is provided to get started. We are also
 available on [Gitter] to answer questions
@@ -108,9 +108,9 @@ useful for getting early feedback from the community.
 [Gitter]: https://gitter.im/tokio-rs/doc-blitz
 [outline]: outline/README.md
 [guides]: https://tokio.rs/docs
-[new-issue]: https://github.com/tokio-rs/doc-blitz/issues/new
-[confusion]: https://github.com/tokio-rs/doc-blitz/issues/new?labels=confusion
-[existing]: https://github.com/tokio-rs/doc-blitz/issues
+[new-issue]: https://github.com/tokio-rs/doc-push/issues/new
+[confusion]: https://github.com/tokio-rs/doc-push/issues/new?labels=confusion
+[existing]: https://github.com/tokio-rs/doc-push/issues
 [website]: http://github.com/tokio-rs/website
 
 ## License
@@ -120,5 +120,5 @@ This repository is licensed under the [MIT license](LICENSE).
 ### Contribution
 
 Unless you explicitly state otherwise, any contribution intentionally
-submitted for inclusion in doc-blitz by you, shall be licensed as MIT,
+submitted for inclusion in doc-push by you, shall be licensed as MIT,
 without any additional terms or conditions.
