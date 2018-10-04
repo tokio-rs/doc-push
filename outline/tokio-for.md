@@ -13,9 +13,15 @@ TODO: Fill out
 <a name="proxy"></a>
 ## Proxy
 
-**Status**: Unassigned.
+**Status**: Assigned ([@olix0r](https://github.com/olix0r))
 
-How to use Tokio to build a proxy.
+How to use Tokio to build a proxy. This guide may talk about other libs (like
+tower, h2, hyper, etc...) but the goal is to approach it from the point of view
+of someone getting started with Tokio.
+
+The guide should cover application structure, concurrency, back pressure
+concerns, and whatever other relevant real world concerns exist when
+implementing a proxy.
 
 #### Contents
 
