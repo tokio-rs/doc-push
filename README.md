@@ -2,7 +2,7 @@
 
 Welcome to the Tokio doc push. The goal is to organize a concerted community
 effort to improve the Tokio documentation while also gaining new contributors.
-At the end, we hope to have a significantly improved set of [guides] and [API
+In the end, we hope to have a significantly improved set of [guides] and [API
 documentation][api].
 
 The Tokio doc push can use the help of all, **no matter the level of
@@ -26,7 +26,7 @@ The steps are roughly:
    process.
 
 This git repository will be used to coordinate the effort. The current
-outline is found [here][outline] and dicussion are in issues.
+outline is found [here][outline] and discussion are in issues.
 
 ## Contributing
 
@@ -45,7 +45,7 @@ Read the existing [guides] and try to learn how to use Tokio. While
 doing so, keep track of the experience. Some things to keep in mind:
 
 * What parts of the guides were confusing?
-* What questsions went unanswered?
+* What questions went unanswered?
 * Did anything flow strangely?
 
 Then, [file issues][confusion] tracking your experience.
@@ -56,7 +56,7 @@ Then, [file issues][confusion] tracking your experience.
 
 The [outline] proposed in this repository tracks where we would like the
 Tokio [guides] to go. Browse through what is proposed and jump in the
-disucssion providing thoughts and feedback on the proposed outline. What
+discussion providing thoughts and feedback on the proposed outline. What
 topics did we miss?
 
 Feel free to open new [issues][new-issue] or comment on [existing] ones.
@@ -91,7 +91,7 @@ they appear, review the pull requests and provide your feedback.
 **Required Experience**: Intermediate
 
 The goal of the doc push is to get the community to contribute guides.
-While some level of Tokio experience is needed, it is probably less tha
+While some level of Tokio experience is needed, it is probably less than
 you might expect. A detailed [outline] is provided to get started. We are also
 available on [Gitter] to answer questions
 and to teach you enough to get to the point of writing the guide. So why not
