@@ -24,12 +24,22 @@ the socket.
 A high level overview of how and when execution happens in Tokio, how futures
 are lazy and the basics of the polling model.
 
+### Contents
+
+* High level Explanation of Tokio's runtime model and how it is significantly different than other languages.
+* Explanation that Tokio's futures are lazy. If the future is not spawned, no work will ever be done.
+* High level explanation of Tokio's polling model.
+
 <a name="errors"></a>
 ## Error Handling
 
 **Status**: unassigned
 
 The very basics of error handling
+
+### Contents
+* High level explanation of future's error handling model
+* High level explanation of how to recover when something goes wrong.
 
 <a name="chat-server"></a>
 ## Example: Chat Server
