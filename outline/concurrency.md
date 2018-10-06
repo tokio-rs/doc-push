@@ -11,15 +11,15 @@ Running tasks concurrently
 
 **Status**: Unassigned.
 
-Overview of concurrency and parallism with TOkio.
+Overview of concurrency and parallelism with Tokio.
 
 #### Contents
 
 * Concurrency in an asynchronous system.
   * Asynchronous gets you the ability to run concurrent tasks.
-  * Concurrency is not parallism.
-    * Parallism requires running on multiple cores.
-  * Parallism is required to scale on modern servers
+  * Concurrency is not parallelism.
+    * Parallelism requires running on multiple cores.
+  * Parallelism is required to scale on modern servers
     * Modern servers have many cores.
 * Tokio offers two runtimes, one parallel, one not.
   * `tokio::run`
@@ -33,7 +33,7 @@ Overview of concurrency and parallism with TOkio.
   * Pros / cons to both
   * Uses Rust to enforce thread-safety.
     * Tasks spawned on `tokio::run` must be `Send`.
-    * Tasks spawned on `runtime::current_thread` must not be `Send`.
+    * Tasks spawned on `runtime::current_thread` do not require `Send`.
 
 <a name="channels"></a>
 ## Channels
