@@ -4,9 +4,8 @@ level tour of necessary knowledge for being productive with Tokio.
 # Pages:
 
 * [Hello world!](#hello-world)
-* [Runtime model](#runtime-model)
 * [Futures](#futures)
-* [Tasks](#tasks)
+* [Error Handling](#errors)
 * [Example: A Chat Server](#chat-server)
 
 <a name="hello-world"></a>
@@ -17,29 +16,33 @@ level tour of necessary knowledge for being productive with Tokio.
 A "Hello world!" Tokio tutorial. Implement a server that writes "hello world" to
 the socket.
 
-<a name="runtime-model"></a>
-## Runtime model
-
-**Status**: [Complete](https://tokio.rs/docs/getting-started/runtime-model/)
-
-A crash course into how Tokio executes code.
-
 <a name="futures"></a>
 ## Futures
 
-**Status**: [Complete](https://tokio.rs/docs/getting-started/futures/)
+**Status**: unassigned.
 
-A crash course into the Future abstraction and how Tokio uses it.
+A high level overview of how and when execution happens in Tokio, how futures
+are lazy and the basics of the polling model.
 
-<a name="tasks"></a>
-## Tasks
+### Contents
 
-**Status**: [Complete](https://tokio.rs/docs/getting-started/tasks/)
+* High level Explanation of Tokio's runtime model and how it is significantly different than other languages.
+* Explanation that Tokio's futures are lazy. If the future is not spawned, no work will ever be done.
+* High level explanation of Tokio's polling model.
 
-Crash course into tasks.
+<a name="errors"></a>
+## Error Handling
+
+**Status**: unassigned
+
+The very basics of error handling
+
+### Contents
+* High level explanation of future's error handling model
+* High level explanation of how to recover when something goes wrong.
 
 <a name="chat-server"></a>
-## Tasks
+## Example: Chat Server
 
 **Status**: [Complete](https://tokio.rs/docs/getting-started/chat/)
 
