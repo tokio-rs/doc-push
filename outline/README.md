@@ -7,6 +7,7 @@ The outline for what we would like the Tokio guides to become.
 * [I/O with Tokio](#io)
 * [Futures, Streams, and Sinks](#futures-streams-sinks)
 * [Transports](#transports)
+* [Concurrency](#concurrency)
 * [Tracking Time](#time)
 * [Tokio for...](#tokio-for)
 * [Cookbook](#cookbook)
@@ -58,6 +59,14 @@ A transport is a `Stream + Sink` of frame values. This section gets into:
 and lots of examples.
 
 [Details](transports.md)
+
+<a name="concurrency"></a>
+# Concurrency
+
+Guides on running concurrent tasks, with an emphasis on message passing. This
+also talks about parallism.
+
+[Details](concurrency.md)
 
 <a name="time"></a>
 # Tracking Time
