@@ -64,7 +64,7 @@ and lots of examples.
 # Concurrency
 
 Guides on running concurrent tasks, with an emphasis on message passing. This
-also talks about parallism.
+also talks about parallelism.
 
 [Details](concurrency.md)
 
