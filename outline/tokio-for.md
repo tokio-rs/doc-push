@@ -84,6 +84,12 @@ How to use Tokio for those familiar with how promises work in JavaScript
 * Differences to the JavaScript Model:
     * Callbacks
     * Promises (hint to future of async/await)
+* Tokio & parallelism
+    * JS is single threaded.
+    * Tokio offers options
+        * Brief discussion of `Send` w/ external links
+        * Default `tokio::run` is mulit-threaded.
+        * runtime::current_thread` is single threaded.
 * Equivalents of:
     * setTimeout/setInterval
     * fetch
