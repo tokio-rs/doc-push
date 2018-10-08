@@ -21,7 +21,10 @@ Overview of concurrency and parallelism with Tokio.
     * Parallelism requires running on multiple cores.
   * Parallelism is required to scale on modern servers
     * Modern servers have many cores.
-* Tokio offers two runtimes, one parallel, one not.
+* Runtimes.
+  * Runtimes execute many tasks concurrently (link previous runtime section).
+    * Two variants, one parallel and one not.
+    * `spawn` adds a new task, the task is executed concurrently.
   * `tokio::run`
     * Concurrent and parrallel (if the system supports it).
     * Runs multiple OS threads.
