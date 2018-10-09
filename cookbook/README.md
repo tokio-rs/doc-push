@@ -6,6 +6,8 @@ To build the book, first install mdbook:
 
     cargo install mdbook
 
-And then build it:
+And then build the docs and serve them via local web server (http://localhost:3000/):
 
-    mdbook build
+    mdbook serve
+
+For more details on `mdbook`, see it's [project website](https://github.com/rust-lang-nursery/mdBook)
