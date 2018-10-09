@@ -4,7 +4,8 @@ level tour of necessary knowledge for being productive with Tokio.
 # Pages:
 
 * [Hello world!](#hello-world)
-* [The Tokio Runtime and Futures](#futures)
+* [Futures and Stream](#futures)
+* [The Tokio Runtime](#rumtime)
 * [Example: An Echo Server and Client](#echo)
 
 <a name="hello-world"></a>
@@ -16,17 +17,32 @@ A "Hello world!" Tokio tutorial. Implement a TCP client that writes "hello world
 a TCP stream.
 
 <a name="futures"></a>
-## The Tokio Runtime and Futures
+## Futures and Streams
 
 **Status**: rylev
 
-A high level overview of how and when execution happens in Tokio, how futures
-are lazy and the basics of the polling model.
+A high level overview of futures including how futures are lazy, as well as an
+overview of Streams (as the iterator version of futures).
 
 ### Contents
 
-* High level Explanation of Tokio's runtime model and how it is significantly different than other languages.
-* Explanation that Tokio's futures are lazy. If the future is not spawned, no work will ever be done.
+* Explanation that Tokio's futures are lazy. If the future is not spawned, no work
+  will ever be done.
+* High level explanation of Streams.
+
+<a name="runtime"></a>
+## Tokio Runtime
+
+**Status**: rylev
+
+A high level overview of how and when execution happens in Tokio, spawning
+tasks on the runtime, and the basics of the polling model.
+
+### Contents
+
+* High level Explanation of Tokio's runtime model and how it is significantly
+  different than other languages.
+* Explanation of running tasks on the runtime.
 * High level explanation of Tokio's polling model.
 
 <a name="echo"></a>
