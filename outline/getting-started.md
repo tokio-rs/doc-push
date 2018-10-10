@@ -29,6 +29,7 @@ overview of Streams (as the iterator version of futures).
 * Explanation that Tokio's futures are lazy. If the future is not spawned, no work
   will ever be done.
 * High level explanation of Streams.
+* Tokio vs Futures - how do they fit together
 
 <a name="runtime"></a>
 ## Tokio Runtime
