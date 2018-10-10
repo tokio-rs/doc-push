@@ -12,7 +12,7 @@ Covers working with I/O in depth with Tokio.
 <a name="overview"></a>
 ## Overview
 
-**Status**: Unassigned.
+**Status**: @andygauge
 
 Functions as an introduction / tutorial to using I/O with Tokio.
 
