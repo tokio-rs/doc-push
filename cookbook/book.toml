@@ -1,0 +1,5 @@
+[book]
+title = "Tokio Cookbook"
+description = "Collection of useful and common patterns for tokio"
+authors = ["Tokio Community"]
+src = "src"

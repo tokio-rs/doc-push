@@ -97,7 +97,7 @@ A set of guides showing how to use Tokio in different contexts:
 A collection of simple examples that demonstrate good practices to accomplish
 common tasks with Tokio.
 
-[Details](cookbook.md)
+[Details](../cookbook/src/about.md)
 
 <a name="internals"></a>
 # Internals
