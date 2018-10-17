@@ -76,7 +76,8 @@ hit, so we want your ideas.
 **Requires Experience**: Beginner
 
 The guides are part of the [website] repository. If you see a way to
-tweak an existing guide to improve it, please open a PR.
+tweak an existing guide to improve it, please open a PR (against the `master`
+branch).
 
 ### Review a guide pull request
 
@@ -98,8 +99,9 @@ and to teach you enough to get to the point of writing the guide. So why not
 give it a shot?
 
 If you want to take a stab at writing a guide, find a page in the
-outline that is marked as unassigned and submit a PR with your GitHub
-handle as the assignee for the page. Then, start writing.
+outline that is marked as unassigned and submit a PR (against the `master`
+branch) with your GitHub handle as the assignee for the page. Then, start
+writing.
 
 Please file a PR to the [website] as soon as you can with your work in
 progress (you can preface the PR with **work in progress**). This is
